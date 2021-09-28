@@ -8,9 +8,6 @@
 #include <util/delay.h>
 #include <avr/interrupt.h>
 #include <string.h>
-//#include <util/atomic.h>
-//#include <math.h>
-//#include "font5x7.h"
 #include "HCMS2903_lib.h"
 #include "EEPROM_lib.h"
 
